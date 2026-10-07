@@ -46,15 +46,6 @@ Acredito que um bom design é aquele que faz sentido pra quem usa: bonito, acess
 - 💬 Pergunte-me sobre: *(HTML, CSS, design de interfaces, Figma...)*
 - ⚡ Curiosidade: *(conte algo divertido sobre você!)*
 
----
-
-## 📊 Meu GitHub em números
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rochalivia&show_icons=true&title_color=B497D6&icon_color=00C2B8&text_color=6B5B7B&bg_color=FFF8F0&border_color=F8C8DC" alt="Estatísticas do GitHub" />
-
-</div>
 
 ---
 
