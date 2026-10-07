@@ -51,4 +51,4 @@ Acredito que um bom design é aquele que faz sentido pra quem usa: bonito, acess
 
 ## 🤝 Vamos conversar?
 
-Se você curte design, front-end ou só quer trocar uma ideia, me chama no [LinkedIn](https://www.linkedin.com/in/liviarochas/). Vai ser um prazer! 🌈" alt="Rodapé colorido" /> </div>
+Se você curte design, front-end ou só quer trocar uma ideia, me chama no [LinkedIn](https://www.linkedin.com/in/liviarochas/). Vai ser um prazer! 🌈" 
