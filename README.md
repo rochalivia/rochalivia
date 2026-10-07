@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/liviarochas/">
   <img src="https://img.shields.io/badge/LinkedIn-00C2B8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<img src="https://img.shields.io/badge/Perfil-rochalivia-C8A2F0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub rochalivia" />
 
 </div>
 
