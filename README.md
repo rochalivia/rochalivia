@@ -1,6 +1,6 @@
 <h1 align="center">🌸 Lívia Helena 🌸</h1>
 
-<h3 align="center">Front-end Developer & UI Designer</h3>
+<h3 align="center">Front-end Developer | UX & Design</h3>
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 Meu nome completo é **Lívia Helena Alves Rocha**, e eu **crio interfaces que inspiram para pessoas reais**.
 
-Acredito que um bom design é aquele que faz sentido pra quem usa: bonito, acessível e cheio de cuidado nos detalhes. 💜
+Acredito que um bom design é aquele que faz sentido pra quem usa: acessível e cheio de cuidado nos detalhes. 💜
 
 ---
 
@@ -40,15 +40,11 @@ Acredito que um bom design é aquele que faz sentido pra quem usa: bonito, acess
 
 ## ✨ Um pouquinho de mim
 
-- 🎨 Gosto de unir **design e código**: do protótipo no Figma até a tela funcionando
-- 🌷 Acredito em interfaces **acolhedoras, claras e acessíveis**
-- 🔭 Agora estou estudando/construindo: *(escreva aqui!)*
-- 💬 Pergunte-me sobre: *(HTML, CSS, design de interfaces, Figma...)*
-- ⚡ Curiosidade: *(conte algo divertido sobre você!)*
-
+- 🎨 Gosto de unir **design e código**
+- 🌷 Acredito em interfaces **acolhedoras e centradas ao usuário**
 
 ---
 
 ## 🤝 Vamos conversar?
 
-Se você curte design, front-end ou só quer trocar uma ideia, me chama no [LinkedIn](https://www.linkedin.com/in/liviarochas/). Vai ser um prazer! 🌈" 
+Se você curte design, front-end ou só quer trocar uma ideia, me chama no [LinkedIn](https://www.linkedin.com/in/liviarochas/). Vai ser um ótimo 🌈" 
